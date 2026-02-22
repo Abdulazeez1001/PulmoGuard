@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Launcher Icon Colors -->
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="ic_launcher_foreground">#000000</color>
+
+    <!-- PulmoGuard Brand Palette -->
+    <color name="pulmoguard_beige">#F8EDE3</color>
+    <color name="pulmoguard_peach">#FFD6BA</color>
+    <color name="pulmoguard_pink">#F7B7A3</color>
+    <color name="pulmoguard_brown">#4B3425</color>
+    <color name="pulmoguard_white">#FFFBFA</color>
+    <color name="pulmoguard_offwhite">#FFF6EF</color>
+
+    <!-- Material 3 Light Theme Colors -->
+    <color name="md_theme_light_primary">#6750A4</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_secondary">#625B71</color>
+    <color name="md_theme_light_background">#FFFBFA</color>
+    <color name="md_theme_light_surface">#FFFBFA</color>
+    <color name="md_theme_light_onSurface">#1C1B1F</color>
+
+    <!-- Material 3 Dark Theme Colors -->
+    <color name="md_theme_dark_primary">#D0BCFF</color>
+    <color name="md_theme_dark_onPrimary">#381E72</color>
+    <color name="md_theme_dark_secondary">#CCC2DC</color>
+    <color name="md_theme_dark_background">#1C1B1F</color>
+    <color name="md_theme_dark_surface">#1C1B1F</color>
+    <color name="md_theme_dark_onSurface">#E6E1E5</color>
+
+</resources>

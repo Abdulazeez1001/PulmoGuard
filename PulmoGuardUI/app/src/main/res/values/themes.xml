@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Launcher theme (Compose handles all colors in code) -->
+    <style name="Theme.PulmoGuardUI" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+</resources>
