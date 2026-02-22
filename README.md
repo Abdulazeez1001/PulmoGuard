@@ -1,4 +1,5 @@
-PulmoGuard — Predictive COPD Exacerbation Monitoring App
+PulmoGuard (Predictive COPD Exacerbation Monitoring App)
+
 An Android mHealth application for early detection of COPD exacerbations, built with Jetpack Compose and a personalized Machine Learning pipeline.
 
 Screens
